@@ -40,7 +40,7 @@ background-image:url("images/kick.png");
 }
 
 .set {
-  margin: 10% auto;
+  margin: 120px auto 100px;
 }
 
 .pressed {
@@ -64,5 +64,26 @@ background-image:url("images/kick.png");
   margin: 10px;
   background-color: white;
 }
+
+.drum:hover {border-color: #c2a1d4;}
+
+.option {
+  font-size: 3rem;
+  font-family: "New Rocker", cursive;
+  font-weight: 900;
+  color: #000000;
+  display: inline-block;
+  width: 250px;
+  height: 100px;
+  text-align: center;
+  background-color: #7d1943;
+  border: none;
+  margin: 30px;
+  border: 10px solid #7d1943;
+  border-radius: 15px;
+
+}
+
+.option:hover {border-color: #823354;}
 
 /*Made by Cybero*/
